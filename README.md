@@ -55,6 +55,14 @@ public/
 - **pnpm** - Package manager
 - **content-collections** - Content management
 
+## 📜 Template
+
+This project was customized from the [magicuidesign/portfolio](https://github.com/magicuidesign/portfolio) template. The original template provides a solid foundation for personal portfolios, which was then customized with Resha's personal information, certifications, projects, and logos.
+
+- **Original Template**: https://github.com/magicuidesign/portfolio
+- **Customized For**: Resha Ananda Rahman
+- **Customizations**: Resume data, certifications section, projects, skills, contact information
+
 ## 👤 Contact
 
 - **Email**: reshaanandarahman@gmail.com
