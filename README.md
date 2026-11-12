@@ -1,4 +1,4 @@
-# Resha Portfolio OC
+# Resha Portfolio
 
 Personal website portfolio for Resha Ananda Rahman.
 
