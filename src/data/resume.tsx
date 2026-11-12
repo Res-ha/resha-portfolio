@@ -11,6 +11,9 @@ import { Docker } from "@/components/ui/svgs/docker";
 import { Kubernetes } from "@/components/ui/svgs/kubernetes";
 import { Java } from "@/components/ui/svgs/java";
 import { Csharp } from "@/components/ui/svgs/csharp";
+import { PHP } from "@/components/ui/svgs/php";
+import { CodeIgniter } from "@/components/ui/svgs/codeigniter";
+import { Laravel } from "@/components/ui/svgs/laravel";
 
 export const DATA = {
   name: "Resha Ananda Rahman",
@@ -29,6 +32,9 @@ export const DATA = {
     { name: "Typescript", icon: Typescript },
     { name: "Node.js", icon: Nodejs },
     { name: "Python", icon: Python },
+    { name: "PHP", icon: PHP },
+    { name: "CodeIgniter", icon: CodeIgniter },
+    { name: "Laravel", icon: Laravel },
     // { name: "Go", icon: Golang },
     // { name: "Postgres", icon: Postgresql },
     // { name: "Docker", icon: Docker },
