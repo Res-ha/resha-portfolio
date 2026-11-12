@@ -1,47 +1,62 @@
-<div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
-</div>
+# Resha Portfolio OC
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+Personal website portfolio for Resha Ananda Rahman.
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+## 🎯 Features
 
-# Features
+- **6 Certifications** with logos from Cisco, DQLab, Digitalent
+- **5 Projects** with GitHub links
+- **12 Technical Skills** with icons
+- **4 Work Experience** positions
+- **Education** from Universitas Palangka Raya
+- **Contact** via email, GitHub, LinkedIn
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+## 🚀 Getting Started
 
-# Getting Started Locally
+```bash
+# Install dependencies
+pnpm install
 
-1. Clone this repository to your local machine:
+# Run development server
+pnpm run dev
+```
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+Available at: http://localhost:3003
 
-2. Move to the cloned directory
+## 📦 Deployment
 
-   ```bash
-   cd portfolio
-   ```
+Deploy to Vercel:
 
-3. Install dependencies:
+```bash
+vercel login
+vercel
+```
 
-   ```bash
-   pnpm install
-   ```
+Or connect custom domain in Vercel dashboard.
 
-4. Start the local Server:
+## 📁 Project Structure
 
-   ```bash
-   pnpm dev
-   ```
+```
+src/
+  data/       # resume.tsx - All personal data
+  components/ # React components
+    section/  # Section components (certifications, contact, etc.)
+public/
+  certification/  # Certification logos
+  me.png        # Profile picture
+  *.png         # Other logos
+```
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+## 💻 Technologies
 
-# License
+- **Next.js 16** - React framework
+- **Tailwind CSS** - Styling
+- **TypeScript** - Type safety
+- **pnpm** - Package manager
+- **content-collections** - Content management
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+## 👤 Contact
+
+- **Email**: reshaanandarahman@gmail.com
+- **GitHub**: https://github.com/Res-ha
+- **LinkedIn**: https://linkedin.com/in/resha-ananda-rahman/
